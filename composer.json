@@ -1,5 +1,5 @@
 {
-    "name": "smartorigin/sonata-gentellela-theme-bundle",
+    "name": "kinulab/sonata-gentellela-theme-bundle",
     "description": "SonataAdminBundle themed with Gentellela",
     "license": "MIT",
     "type": "symfony-bundle",
